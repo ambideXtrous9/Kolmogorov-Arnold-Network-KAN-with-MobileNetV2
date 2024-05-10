@@ -1,4 +1,4 @@
-# KAN
+# Kolmogorov-Arnold-Network (KAN)
 
 ### **Kolmogorov Arnold Network(KAN) + MobileNetV2**
 
@@ -13,3 +13,8 @@
 
 ### **[KAN Implementation](https://github.com/Blealtan/efficient-kan/tree/master)**
 
+References :
+
+1. [PyKAN](https://kindxiaoming.github.io/pykan/intro.html)
+
+2. [Awesome KAN](https://github.com/mintisan/awesome-kan?tab=readme-ov-file)
